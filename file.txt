@@ -1,4 +1,4 @@
-testim conflicts
+testim conflicts update
 netestim conflicts
 commit test
 ghj ()
